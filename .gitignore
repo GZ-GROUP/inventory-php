@@ -1,0 +1,33 @@
+# Entorno
+.env
+
+# Dependencias
+vendor/
+node_modules/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Docker
+docker-compose.override.yml
+
+# Cache PHP
+*.cache
+
+# Composer
+composer.lock
+
+# PHPUnit
+.phpunit.result.cache
